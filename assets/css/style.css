@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "Last King Quest";
+    src: url("../font/LastKingQuest.ttf");
+}
+
+.navbar-brand {
+    font-family: "Last King Quest" !important;
+}
