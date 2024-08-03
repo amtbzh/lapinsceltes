@@ -12,9 +12,6 @@
   - Liste de nos sponsors et partenaires
 - Page Mention Légale
  
-## Elements a mettre en place :
+## Avancement du developpement :
 
-- Header + Footer
-  - Avec les différents liens pour les pages
-  - Des icones pour les réseaux sociaux
-  - Copyright + Lien vers le Github
+[x] - Template de base 
