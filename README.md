@@ -15,7 +15,8 @@
 ## Avancement du developpement :
 
 - [x] Template de base
-- [ ] Ajout des images
+- [x] Ajout image index
+- [x] Ajout dossier sponsoring
 - [ ] Redaction des différentes pages
 - [ ] Mise en place des différentes images
 - [ ] Test + Correctif sur l'affichage mobile
