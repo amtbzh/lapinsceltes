@@ -14,7 +14,8 @@
  
 ## Avancement du developpement :
 
-[x] Template de base
-[ ] Redaction des différentes pages
-[ ] Mise en place des différentes images
-[ ] Test + Correctif sur l'affichage mobile
+- [x] Template de base
+- [ ] Ajout des images
+- [ ] Redaction des différentes pages
+- [ ] Mise en place des différentes images
+- [ ] Test + Correctif sur l'affichage mobile
